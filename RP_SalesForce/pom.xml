@@ -1,0 +1,17 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>RP_SalesForce</groupId>
+  <artifactId>RP_SalesForce</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>RP_SalesForce</name>
+  <description>RP_SalesForce</description>
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/org.apache.metamodel/MetaModel-salesforce -->
+<dependency>
+    <groupId>org.apache.metamodel</groupId>
+    <artifactId>MetaModel-salesforce</artifactId>
+    <version>5.1.1</version>
+</dependency>
+  </dependencies>
+  
+</project>
